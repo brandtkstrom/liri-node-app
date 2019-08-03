@@ -1,5 +1,5 @@
-const SpotifyProcessor = require('./spotifyCmds');
-const MovieProcessor = require('./omdbCmds');
+const SpotifyProcessor = require('./musicCmds');
+const MovieProcessor = require('./movieCmds');
 
 // Maps a LIRI command to the associated command processor
 function LiriCommandFactory() {
