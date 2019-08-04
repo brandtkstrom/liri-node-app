@@ -21,6 +21,9 @@
 -   #### do-what-it-says
     -   Reads the included random.txt file and performs each command specified. This allows LIRI to process a multiple commands at once. Each command should be on its own line, with a comma separating the command and associated argument e.g. "movie-this,finding nemo".
 
+## **Code Overview Video**
+[Watch on YouTube](https://www.youtube.com/watch?v=HxzYIU8l_fk)
+
 ## **Examples**
 
 ### LIRI will throw an error if no command is provided:
