@@ -1,5 +1,5 @@
 const fs = require('fs');
-const separator = '\n--------------------';
+const separator = '\n--------------------\n';
 
 function Logger() {
     // Logs the provided content to console and log.txt file.
