@@ -1,19 +1,9 @@
 const keys = require('./keys');
 const axios = require('axios');
+const Logger = require('./logger');
 
+const logger = new Logger();
 const omdbUrl = `https://www.omdbapi.com/?&apikey=${keys.omdb.key}`;
-
-/*
-   * Title of the movie.
-   * Year the movie came out.
-   * IMDB Rating of the movie.
-   * Rotten Tomatoes Rating of the movie.
-   * Country where the movie was produced.
-   * Language of the movie.
-   * Plot of the movie.
-   * Actors in the movie.
-
-*/
 
 function MovieProcessor() {
     this.process = function(movie) {
@@ -23,8 +13,9 @@ function MovieProcessor() {
             .then(function(response) {
                 const data = response.data;
                 if (data.Error) {
-                    console.log(`Error searching for movie: ${data.Error}`);
+                    logger.logError(`Error searching for movie: ${data.Error}`);
                 } else {
+                    // Get Rotten Tomatoes score
                     const rtScoreIdx = data.Ratings.findIndex(
                         r => r.Source === 'Rotten Tomatoes'
                     );
@@ -32,6 +23,7 @@ function MovieProcessor() {
                         rtScoreIdx >= 0
                             ? data.Ratings[rtScoreIdx].Value
                             : 'N/A';
+                    // Create array with movie info
                     const movieInfo = [
                         `Title: ${data.Title}`,
                         `Year: ${data.Year}`,
@@ -43,13 +35,12 @@ function MovieProcessor() {
                         `Plot: ${data.Plot}`,
                         `Actors: ${data.Actors}`
                     ];
-                    console.log(movieInfo.join('\n'));
-                    // TODO use logger
+                    // Log movie info
+                    logger.log(movieInfo);
                 }
             })
             .catch(function(err) {
-                console.log(`Error looking up movie: ${movie}`);
-                console.log(err);
+                logger.logError(`looking up movie: ${movie}`, err);
             });
     };
 }
