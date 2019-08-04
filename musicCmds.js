@@ -6,11 +6,11 @@ const spotify = new Spotify(keys.spotify);
 const logger = new Logger();
 
 function SpotifyProcessor() {
-    this.process = function(song) {
+    const spotifySearch = function(params) {
         spotify
-            .search({ type: 'track', query: song, limit: 1 })
+            .search(params)
             .then(function(response) {
-                const data = response.tracks.items[0];
+                let data = response.tracks.items[0];
                 // Get preview url (if present)
                 const preview = data.preview_url ? data.preview_url : 'N/A';
                 // Create array with song info
@@ -26,6 +26,26 @@ function SpotifyProcessor() {
             .catch(function(err) {
                 logger.logError(`searching Spotify for song: ${song}`, err);
             });
+    };
+
+    const defaultSong = function() {
+        const songInfo = [
+            'Song: The Sign',
+            'Artist(s): Ace of Base',
+            'Album: The Sign (US)',
+            'URL: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE'
+        ];
+        // Log song info
+        logger.log(songInfo);
+    };
+
+    this.process = function(song) {
+        // If no song is provided, do default search
+        if (!song) {
+            defaultSong();
+        } else {
+            spotifySearch({ type: 'track', query: song, limit: 1 });
+        }
     };
 }
 
