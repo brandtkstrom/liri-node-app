@@ -14,10 +14,13 @@
 
 -   #### spotify-this-song _(song)_
     -   Utilizes the Spotify API to lookup information for the specified song.
+    -   If no song is provided, LIRI will choose one for you...
 -   #### movie-this _(movie)_
     -   Looks up information for the specified movie using the OMDB API.
+    -   If no movie is provided, LIRI will choose one for you...
 -   #### concert-this _(artist)_
     -   Finds upcoming events for the specified band/artist using the "Bands in Town Artist Events API".
+    -   Best to give LIRI an artist... it might bark at you if you don't...
 -   #### do-what-it-says
     -   Reads the included random.txt file and performs each command specified. This allows LIRI to process multiple commands at once. Each command should be on its own line, with a comma separating the command and associated argument e.g. "movie-this,finding nemo".
 
