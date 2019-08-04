@@ -1,0 +1,674 @@
+No events found for tool.--------------------No events found for tool.
+--------------------No events found for artist: tool.
+--------------------Venue: Marrymoor Park Concerts,Location: Seattle, WA,Date: todo
+Venue: Edgefield Amphitheater,Location: Troutdale, OR,Date: todo
+Venue: Santa Barbara Bowl,Location: Santa Barbara, CA,Date: todo
+Venue: Cal Coast Credit Union Open Air Theatre,Location: San Diego, CA,Date: todo
+Venue: The Forum,Location: Los Angeles, CA,Date: todo
+Venue: Comerica Theatre,Location: Phoenix, AZ,Date: todo
+Venue: The Greek Theatre,Location: San Francisco, CA,Date: todo
+Venue: Downtown Las Vegas Events Center - DLVEC,Location: Las Vegas, NV,Date: todo
+Venue: Paard Van Troje,Location: Den Haag, ,Date: todo
+Venue: Reeperbahn Festival,Location: Hamburg, ,Date: todo
+Venue: Tivoli Vredenburg,Location: Utrecht, ,Date: todo
+Venue: Reeperbahn Festival,Location: Hamburg, ,Date: todo
+Venue: Reeperbahn Festival,Location: Hamburg, ,Date: todo
+Venue: Paradiso,Location: Amsterdam, ,Date: todo
+Venue: Reeperbahn Festival,Location: Hamburg, ,Date: todo
+Venue: LUXOR,Location: Koln, ,Date: todo
+Venue: The Electric Ballroom,Location: Little London, ,Date: todo
+Venue: Santeria Social Club,Location: Milan, ,Date: todo
+Venue: Voodoo Music + Arts Experience,Location: New Orleans, LA,Date: todo--------------------Venue: Marrymoor Park Concerts,Location: Seattle, WA,Date: todo
+Venue: Edgefield Amphitheater,Location: Troutdale, OR,Date: todo
+Venue: Santa Barbara Bowl,Location: Santa Barbara, CA,Date: todo
+Venue: Cal Coast Credit Union Open Air Theatre,Location: San Diego, CA,Date: todo
+Venue: The Forum,Location: Los Angeles, CA,Date: todo
+Venue: Comerica Theatre,Location: Phoenix, AZ,Date: todo
+Venue: The Greek Theatre,Location: San Francisco, CA,Date: todo
+Venue: Downtown Las Vegas Events Center - DLVEC,Location: Las Vegas, NV,Date: todo
+Venue: Paard Van Troje,Location: Den Haag, ,Date: todo
+Venue: Reeperbahn Festival,Location: Hamburg, ,Date: todo
+Venue: Tivoli Vredenburg,Location: Utrecht, ,Date: todo
+Venue: Reeperbahn Festival,Location: Hamburg, ,Date: todo
+Venue: Reeperbahn Festival,Location: Hamburg, ,Date: todo
+Venue: Paradiso,Location: Amsterdam, ,Date: todo
+Venue: Reeperbahn Festival,Location: Hamburg, ,Date: todo
+Venue: LUXOR,Location: Koln, ,Date: todo
+Venue: The Electric Ballroom,Location: Little London, ,Date: todo
+Venue: Santeria Social Club,Location: Milan, ,Date: todo
+Venue: Voodoo Music + Arts Experience,Location: New Orleans, LA,Date: todo--------------------Venue: Marrymoor Park Concerts,Location: Seattle, WA,Date: todo,
+Venue: Edgefield Amphitheater,Location: Troutdale, OR,Date: todo,
+Venue: Santa Barbara Bowl,Location: Santa Barbara, CA,Date: todo,
+Venue: Cal Coast Credit Union Open Air Theatre,Location: San Diego, CA,Date: todo,
+Venue: The Forum,Location: Los Angeles, CA,Date: todo,
+Venue: Comerica Theatre,Location: Phoenix, AZ,Date: todo,
+Venue: The Greek Theatre,Location: San Francisco, CA,Date: todo,
+Venue: Downtown Las Vegas Events Center - DLVEC,Location: Las Vegas, NV,Date: todo,
+Venue: Paard Van Troje,Location: Den Haag, ,Date: todo,
+Venue: Reeperbahn Festival,Location: Hamburg, ,Date: todo,
+Venue: Tivoli Vredenburg,Location: Utrecht, ,Date: todo,
+Venue: Reeperbahn Festival,Location: Hamburg, ,Date: todo,
+Venue: Reeperbahn Festival,Location: Hamburg, ,Date: todo,
+Venue: Paradiso,Location: Amsterdam, ,Date: todo,
+Venue: Reeperbahn Festival,Location: Hamburg, ,Date: todo,
+Venue: LUXOR,Location: Koln, ,Date: todo,
+Venue: The Electric Ballroom,Location: Little London, ,Date: todo,
+Venue: Santeria Social Club,Location: Milan, ,Date: todo,
+Venue: Voodoo Music + Arts Experience,Location: New Orleans, LA,Date: todo,--------------------undefined--------------------undefined--------------------Events found: 19
+Venue: Marrymoor Park Concerts
+Location: Seattle, WA
+Date: todo
+
+Venue: Edgefield Amphitheater
+Location: Troutdale, OR
+Date: todo
+
+Venue: Santa Barbara Bowl
+Location: Santa Barbara, CA
+Date: todo
+
+Venue: Cal Coast Credit Union Open Air Theatre
+Location: San Diego, CA
+Date: todo
+
+Venue: The Forum
+Location: Los Angeles, CA
+Date: todo
+
+Venue: Comerica Theatre
+Location: Phoenix, AZ
+Date: todo
+
+Venue: The Greek Theatre
+Location: San Francisco, CA
+Date: todo
+
+Venue: Downtown Las Vegas Events Center - DLVEC
+Location: Las Vegas, NV
+Date: todo
+
+Venue: Paard Van Troje
+Location: Den Haag, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: Tivoli Vredenburg
+Location: Utrecht, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: Paradiso
+Location: Amsterdam, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: LUXOR
+Location: Koln, 
+Date: todo
+
+Venue: The Electric Ballroom
+Location: Little London, 
+Date: todo
+
+Venue: Santeria Social Club
+Location: Milan, 
+Date: todo
+
+Venue: Voodoo Music + Arts Experience
+Location: New Orleans, LA
+Date: todo
+--------------------Events found: 19
+
+Venue: Marrymoor Park Concerts
+Location: Seattle, WA
+Date: todo
+
+Venue: Edgefield Amphitheater
+Location: Troutdale, OR
+Date: todo
+
+Venue: Santa Barbara Bowl
+Location: Santa Barbara, CA
+Date: todo
+
+Venue: Cal Coast Credit Union Open Air Theatre
+Location: San Diego, CA
+Date: todo
+
+Venue: The Forum
+Location: Los Angeles, CA
+Date: todo
+
+Venue: Comerica Theatre
+Location: Phoenix, AZ
+Date: todo
+
+Venue: The Greek Theatre
+Location: San Francisco, CA
+Date: todo
+
+Venue: Downtown Las Vegas Events Center - DLVEC
+Location: Las Vegas, NV
+Date: todo
+
+Venue: Paard Van Troje
+Location: Den Haag, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: Tivoli Vredenburg
+Location: Utrecht, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: Paradiso
+Location: Amsterdam, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: LUXOR
+Location: Koln, 
+Date: todo
+
+Venue: The Electric Ballroom
+Location: Little London, 
+Date: todo
+
+Venue: Santeria Social Club
+Location: Milan, 
+Date: todo
+
+Venue: Voodoo Music + Arts Experience
+Location: New Orleans, LA
+Date: todo
+--------------------No events found for artist: tool.
+--------------------No events found for artist: tool.
+--------------------Events found: 19
+
+Venue: Marrymoor Park Concerts
+Location: Seattle, WA
+Date: todo
+
+Venue: Edgefield Amphitheater
+Location: Troutdale, OR
+Date: todo
+
+Venue: Santa Barbara Bowl
+Location: Santa Barbara, CA
+Date: todo
+
+Venue: Cal Coast Credit Union Open Air Theatre
+Location: San Diego, CA
+Date: todo
+
+Venue: The Forum
+Location: Los Angeles, CA
+Date: todo
+
+Venue: Comerica Theatre
+Location: Phoenix, AZ
+Date: todo
+
+Venue: The Greek Theatre
+Location: San Francisco, CA
+Date: todo
+
+Venue: Downtown Las Vegas Events Center - DLVEC
+Location: Las Vegas, NV
+Date: todo
+
+Venue: Paard Van Troje
+Location: Den Haag, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: Tivoli Vredenburg
+Location: Utrecht, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: Paradiso
+Location: Amsterdam, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: LUXOR
+Location: Koln, 
+Date: todo
+
+Venue: The Electric Ballroom
+Location: Little London, 
+Date: todo
+
+Venue: Santeria Social Club
+Location: Milan, 
+Date: todo
+
+Venue: Voodoo Music + Arts Experience
+Location: New Orleans, LA
+Date: todo
+--------------------Events found: 19
+
+Venue: Marrymoor Park Concerts
+Location: Seattle, WA
+Date: todo
+
+Venue: Edgefield Amphitheater
+Location: Troutdale, OR
+Date: todo
+
+Venue: Santa Barbara Bowl
+Location: Santa Barbara, CA
+Date: todo
+
+Venue: Cal Coast Credit Union Open Air Theatre
+Location: San Diego, CA
+Date: todo
+
+Venue: The Forum
+Location: Los Angeles, CA
+Date: todo
+
+Venue: Comerica Theatre
+Location: Phoenix, AZ
+Date: todo
+
+Venue: The Greek Theatre
+Location: San Francisco, CA
+Date: todo
+
+Venue: Downtown Las Vegas Events Center - DLVEC
+Location: Las Vegas, NV
+Date: todo
+
+Venue: Paard Van Troje
+Location: Den Haag, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: Tivoli Vredenburg
+Location: Utrecht, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: Paradiso
+Location: Amsterdam, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: LUXOR
+Location: Koln, 
+Date: todo
+
+Venue: The Electric Ballroom
+Location: Little London, 
+Date: todo
+
+Venue: Santeria Social Club
+Location: Milan, 
+Date: todo
+
+Venue: Voodoo Music + Arts Experience
+Location: New Orleans, LA
+Date: todo
+--------------------Events found: 19
+
+Venue: Marrymoor Park Concerts
+Location: Seattle, WA
+Date: todo
+
+Venue: Edgefield Amphitheater
+Location: Troutdale, OR
+Date: todo
+
+Venue: Santa Barbara Bowl
+Location: Santa Barbara, CA
+Date: todo
+
+Venue: Cal Coast Credit Union Open Air Theatre
+Location: San Diego, CA
+Date: todo
+
+Venue: The Forum
+Location: Los Angeles, CA
+Date: todo
+
+Venue: Comerica Theatre
+Location: Phoenix, AZ
+Date: todo
+
+Venue: The Greek Theatre
+Location: San Francisco, CA
+Date: todo
+
+Venue: Downtown Las Vegas Events Center - DLVEC
+Location: Las Vegas, NV
+Date: todo
+
+Venue: Paard Van Troje
+Location: Den Haag, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: Tivoli Vredenburg
+Location: Utrecht, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: Paradiso
+Location: Amsterdam, 
+Date: todo
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: todo
+
+Venue: LUXOR
+Location: Koln, 
+Date: todo
+
+Venue: The Electric Ballroom
+Location: Little London, 
+Date: todo
+
+Venue: Santeria Social Club
+Location: Milan, 
+Date: todo
+
+Venue: Voodoo Music + Arts Experience
+Location: New Orleans, LA
+Date: todo
+--------------------Events found: 19
+
+Venue: Marrymoor Park Concerts
+Location: Seattle, WA
+Date: 08/04/2019
+
+Venue: Edgefield Amphitheater
+Location: Troutdale, OR
+Date: 08/06/2019
+
+Venue: Santa Barbara Bowl
+Location: Santa Barbara, CA
+Date: 08/08/2019
+
+Venue: Cal Coast Credit Union Open Air Theatre
+Location: San Diego, CA
+Date: 08/09/2019
+
+Venue: The Forum
+Location: Los Angeles, CA
+Date: 08/10/2019
+
+Venue: Comerica Theatre
+Location: Phoenix, AZ
+Date: 08/11/2019
+
+Venue: The Greek Theatre
+Location: San Francisco, CA
+Date: 08/15/2019
+
+Venue: Downtown Las Vegas Events Center - DLVEC
+Location: Las Vegas, NV
+Date: 08/16/2019
+
+Venue: Paard Van Troje
+Location: Den Haag, 
+Date: 09/18/2019
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: 09/18/2019
+
+Venue: Tivoli Vredenburg
+Location: Utrecht, 
+Date: 09/19/2019
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: 09/19/2019
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: 09/20/2019
+
+Venue: Paradiso
+Location: Amsterdam, 
+Date: 09/21/2019
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: 09/21/2019
+
+Venue: LUXOR
+Location: Koln, 
+Date: 09/22/2019
+
+Venue: The Electric Ballroom
+Location: Little London, 
+Date: 09/25/2019
+
+Venue: Santeria Social Club
+Location: Milan, 
+Date: 09/28/2019
+
+Venue: Voodoo Music + Arts Experience
+Location: New Orleans, LA
+Date: 10/26/2019
+--------------------Events found: 19
+
+Venue: Marrymoor Park Concerts
+Location: Seattle, WA
+Date: 08/04/2019
+
+Venue: Edgefield Amphitheater
+Location: Troutdale, OR
+Date: 08/06/2019
+
+Venue: Santa Barbara Bowl
+Location: Santa Barbara, CA
+Date: 08/08/2019
+
+Venue: Cal Coast Credit Union Open Air Theatre
+Location: San Diego, CA
+Date: 08/09/2019
+
+Venue: The Forum
+Location: Los Angeles, CA
+Date: 08/10/2019
+
+Venue: Comerica Theatre
+Location: Phoenix, AZ
+Date: 08/11/2019
+
+Venue: The Greek Theatre
+Location: San Francisco, CA
+Date: 08/15/2019
+
+Venue: Downtown Las Vegas Events Center - DLVEC
+Location: Las Vegas, NV
+Date: 08/16/2019
+
+Venue: Paard Van Troje
+Location: Den Haag, 
+Date: 09/18/2019
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: 09/18/2019
+
+Venue: Tivoli Vredenburg
+Location: Utrecht, 
+Date: 09/19/2019
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: 09/19/2019
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: 09/20/2019
+
+Venue: Paradiso
+Location: Amsterdam, 
+Date: 09/21/2019
+
+Venue: Reeperbahn Festival
+Location: Hamburg, 
+Date: 09/21/2019
+
+Venue: LUXOR
+Location: Koln, 
+Date: 09/22/2019
+
+Venue: The Electric Ballroom
+Location: Little London, 
+Date: 09/25/2019
+
+Venue: Santeria Social Club
+Location: Milan, 
+Date: 09/28/2019
+
+Venue: Voodoo Music + Arts Experience
+Location: New Orleans, LA
+Date: 10/26/2019
+--------------------Events found: 19
+
+Venue: Marrymoor Park Concerts
+Location: Seattle, WA
+Date: 08/04/2019
+
+Venue: Edgefield Amphitheater
+Location: Troutdale, OR
+Date: 08/06/2019
+
+Venue: Santa Barbara Bowl
+Location: Santa Barbara, CA
+Date: 08/08/2019
+
+Venue: Cal Coast Credit Union Open Air Theatre
+Location: San Diego, CA
+Date: 08/09/2019
+
+Venue: The Forum
+Location: Los Angeles, CA
+Date: 08/10/2019
+
+Venue: Comerica Theatre
+Location: Phoenix, AZ
+Date: 08/11/2019
+
+Venue: The Greek Theatre
+Location: San Francisco, CA
+Date: 08/15/2019
+
+Venue: Downtown Las Vegas Events Center - DLVEC
+Location: Las Vegas, NV
+Date: 08/16/2019
+
+Venue: Paard Van Troje
+Location: Den Haag, Netherlands
+Date: 09/18/2019
+
+Venue: Reeperbahn Festival
+Location: Hamburg, Germany
+Date: 09/18/2019
+
+Venue: Tivoli Vredenburg
+Location: Utrecht, Netherlands
+Date: 09/19/2019
+
+Venue: Reeperbahn Festival
+Location: Hamburg, Germany
+Date: 09/19/2019
+
+Venue: Reeperbahn Festival
+Location: Hamburg, Germany
+Date: 09/20/2019
+
+Venue: Paradiso
+Location: Amsterdam, Netherlands
+Date: 09/21/2019
+
+Venue: Reeperbahn Festival
+Location: Hamburg, Germany
+Date: 09/21/2019
+
+Venue: LUXOR
+Location: Koln, Germany
+Date: 09/22/2019
+
+Venue: The Electric Ballroom
+Location: Little London, United Kingdom
+Date: 09/25/2019
+
+Venue: Santeria Social Club
+Location: Milan, Italy
+Date: 09/28/2019
+
+Venue: Voodoo Music + Arts Experience
+Location: New Orleans, LA
+Date: 10/26/2019
+--------------------
