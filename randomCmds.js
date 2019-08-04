@@ -31,7 +31,6 @@ function RandomProcessor() {
     };
 
     this.process = function() {
-        console.log('random processor called');
         fs.readFile('random.txt', 'utf8', function(err, data) {
             if (err) {
                 logger.logError('reading file random.txt', err);
