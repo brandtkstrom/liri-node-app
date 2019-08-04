@@ -1,6 +1,7 @@
 const SpotifyProcessor = require('./musicCmds');
 const MovieProcessor = require('./movieCmds');
 const ConcertProcessor = require('./concertCmds');
+const RandomProcessor = require('./randomCmds');
 
 // Maps a LIRI command to the associated command processor
 function LiriCommandFactory() {
@@ -12,6 +13,8 @@ function LiriCommandFactory() {
                 return new SpotifyProcessor();
             case 'movie-this':
                 return new MovieProcessor();
+            case 'do-what-it-says':
+                return new RandomProcessor();
             default:
                 const error = `Invalid LIRI command: ${command}`;
                 console.error(error);

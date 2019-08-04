@@ -1,5 +1,5 @@
 const fs = require('fs');
-const separator = '--------------------';
+const separator = '\n--------------------';
 
 function Logger() {
     // Logs the provided content to console and log.txt file.
@@ -25,7 +25,7 @@ function Logger() {
     this.logError = function(message, error) {
         console.log('Error:', message);
         if (error) {
-            console.log(`\n${JSON.stringify(error)}`);
+            console.log(`${JSON.stringify(error)}`);
         }
         console.log(separator);
     };

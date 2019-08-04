@@ -13,8 +13,8 @@ if (!command) {
 }
 
 // Retrieve appropriate processor
-const commandFactory = new LiriCommandFactory();
-const commandProcessor = commandFactory.getCommandProcessor(command);
+process.commandFactory = new LiriCommandFactory();
+const commandProcessor = process.commandFactory.getCommandProcessor(command);
 
 // Process the command
 commandProcessor.process(commandArg);

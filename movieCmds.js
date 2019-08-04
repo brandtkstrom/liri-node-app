@@ -1,5 +1,5 @@
-const keys = require('./keys');
 const axios = require('axios');
+const keys = require('./keys');
 const Logger = require('./logger');
 
 const logger = new Logger();
